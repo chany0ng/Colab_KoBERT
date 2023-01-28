@@ -1,1 +1,1 @@
-# Colab_KoBERT
+# Colab_bert-base-multilingual-cased
